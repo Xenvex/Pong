@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2020-09-05T00:08:23.318-07:00
+  initializedAtString: 2020-09-05T00:08:23.318-07:00
+  log:
+  - commitID: 7273e36570d9ad5f6498b373dfcef8640daada17
+    mergeA: 
+    mergeB: 
+    authorName: Xenvex
+    authorEmail: 56145638+Xenvex@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Initial commit
+    description: 
+    timeString: 2020-09-04T23:58:09.000-07:00
+    commitTimeString: 2020-09-04T23:58:09.000-07:00
+    changes:
+    - path: .gitignore
+      fullPath: D:\Unity_Projects\PongHW1\Pong\.gitignore
+      projectPath: ..\.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: README.md
+      fullPath: D:\Unity_Projects\PongHW1\Pong\README.md
+      projectPath: ..\README.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
