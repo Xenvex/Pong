@@ -1,12 +1,13 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using System.Reflection;
 
 public class Ball : MonoBehaviour
 {
     private Rigidbody rb;
     private float ampInitial = 50;
-    private float amp = 20;
+    private float amp = 0;
     private float embark = -1;
 
     public Vector3 originalPos;
@@ -24,10 +25,9 @@ public class Ball : MonoBehaviour
         //Getting/Setting Original position to help reset later when the ball scores
         originalPos = new Vector3(gameObject.transform.position.x, gameObject.transform.position.y, gameObject.transform.position.z);
         rb = GetComponent<Rigidbody>();
+    
 
-        
-
-        AddForce(embark);
+        AddForce(embark); //Initial push (Set right now to go left initially)
         
     }
 
@@ -39,12 +39,21 @@ public class Ball : MonoBehaviour
 
     void FixedUpdate()
     {
-        //rb.AddExplosionForce(this.Vector3.right * amp);
+        
+    }
+
+
+    public void ClearLog()
+    {
+        var assembly = Assembly.GetAssembly(typeof(UnityEditor.ActiveEditorTracker));
+        var type = assembly.GetType("UnityEditorInternal.LogEntries");
+        var method = type.GetMethod("Clear");
+        method.Invoke(new object(), null);
     }
 
     private void AddForce(float direction)
     {
-        rb.AddForce(new Vector3(ampInitial * direction, 0, 10));
+        rb.AddForce(new Vector3(ampInitial * direction, 0, 1));
     }
 
     void OnCollisionEnter(Collision other)
@@ -52,7 +61,10 @@ public class Ball : MonoBehaviour
         //Debug.Log("I hit a " + other.gameObject.name);
 
         //Change color of the ball
-        gameObject.GetComponent<MeshRenderer>().material.color = NewColor();
+        if (other.gameObject.name == "LeftPaddle")
+        {
+            gameObject.GetComponent<MeshRenderer>().material.color = NewColor();
+        }
 
         
 
@@ -63,6 +75,7 @@ public class Ball : MonoBehaviour
         amp += 1;
         embark = embark * -1;
         //rb.velocity = new Vector2((amp-=1) * embark, 0);
+        rb.velocity = rb.velocity.normalized * (10 +amp);
 
     }
 
@@ -86,20 +99,21 @@ public class Ball : MonoBehaviour
             //Checking if it's Game Over
             if(RightPoints == 3)
             {
+                //Declare game over message and reset scores
                 Debug.Log("Game Over, Right Paddle Wins");
                 LeftPoints = 0;
                 RightPoints = 0;
-                
             }
 
-            embark = embark * 0 + (-1); //Setting the direction to go left(when ball resets)
-
-
             
-            gameObject.transform.position = originalPos;
+            gameObject.transform.position = originalPos; //Reset ball to its original position
+
+            amp = 0; //resets the amp counter(So that the ball speed incrememnts from 0)
+            rb.velocity = rb.velocity.normalized * 0; //Resets the speed of the moving ball
+
+            embark = embark * 0 + (-1); //Setting the direction to go left(when ball resets)
             AddForce(embark);
 
-            rb.AddForce(new Vector3(1, 0, 10));
 
         }
 
@@ -115,16 +129,23 @@ public class Ball : MonoBehaviour
             //Checking if it's Game Over
             if (LeftPoints == 3)
             {
+                //Declare game over message and reset score
                 Debug.Log("Game Over, Left Paddle Wins");
                 LeftPoints = 0;
                 RightPoints = 0;
-                
             }
 
-            embark = embark * 0 + (1); //Setting the direction to go right(when ball resets)
-            gameObject.transform.position = originalPos;
+            
+            gameObject.transform.position = originalPos; //Reset ball to its original position
+
+            amp = 0; //resets the amp counter(So that the ball speed incrememnts from 0)
+            rb.velocity = rb.velocity.normalized * 0; //Resets the speed of the moving ball
+
+            embark = embark * 0 + (1); //Setting the direction to go right(when ball resets)s
             AddForce(embark);
-            rb.AddForce(new Vector3(-1, 0, 10));
+
+            
+            //rb.AddForce(new Vector3(-1, 0, 0));
         }
 
         

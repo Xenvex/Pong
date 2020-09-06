@@ -13,30 +13,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-09-06T14:44:49.904-07:00
+  lastUpdatedAtString: 2020-09-06T16:42:31.537-07:00
   initializedAtString: 2020-09-06T13:05:45.390-07:00
   entries:
   - path: Pong\Assets\Ball.cs
     fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Assets\Ball.cs
     projectPath: Assets\Ball.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Pong\Assets\LeftGoal.cs
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Assets\LeftGoal.cs
-    projectPath: Assets\LeftGoal.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Pong\Assets\RightGoal.cs
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Assets\RightGoal.cs
-    projectPath: Assets\RightGoal.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Pong\Assets\Scenes\PongStart.unity
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Assets\Scenes\PongStart.unity
-    projectPath: Assets\Scenes\PongStart.unity
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -46,435 +28,177 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Pong\Library\Artifacts\00\004d7b732ef8dba510c76e29345519dc
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\00\004d7b732ef8dba510c76e29345519dc
-    projectPath: Library\Artifacts\00\004d7b732ef8dba510c76e29345519dc
+  - path: Pong\Library\Artifacts\05\05c093869abff1c0e15a5e0cd44cde0f
+    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\05\05c093869abff1c0e15a5e0cd44cde0f
+    projectPath: Library\Artifacts\05\05c093869abff1c0e15a5e0cd44cde0f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pong\Library\Artifacts\00\00e7d48cf3b0550cf78b70b3c29255e1
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\00\00e7d48cf3b0550cf78b70b3c29255e1
-    projectPath: Library\Artifacts\00\00e7d48cf3b0550cf78b70b3c29255e1
+  - path: Pong\Library\Artifacts\18\181ffd9888dce0d2aca5bacd322c2f55
+    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\18\181ffd9888dce0d2aca5bacd322c2f55
+    projectPath: Library\Artifacts\18\181ffd9888dce0d2aca5bacd322c2f55
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pong\Library\Artifacts\04\04754715e374e5a1b484f1d8d2e96698
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\04\04754715e374e5a1b484f1d8d2e96698
-    projectPath: Library\Artifacts\04\04754715e374e5a1b484f1d8d2e96698
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pong\Library\Artifacts\06\060eb7cc5859961375ff6dd0bd38e275
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\06\060eb7cc5859961375ff6dd0bd38e275
-    projectPath: Library\Artifacts\06\060eb7cc5859961375ff6dd0bd38e275
+  - path: Pong\Library\Artifacts\2e\2e08c4b9a8c9529531d7b85acba142ef
+    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\2e\2e08c4b9a8c9529531d7b85acba142ef
+    projectPath: Library\Artifacts\2e\2e08c4b9a8c9529531d7b85acba142ef
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pong\Library\Artifacts\13\130aec592a3d92743f11d3b6e6cdb77f
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\13\130aec592a3d92743f11d3b6e6cdb77f
-    projectPath: Library\Artifacts\13\130aec592a3d92743f11d3b6e6cdb77f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pong\Library\Artifacts\13\1399533010412a4a3768b9edb4dbf27a
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\13\1399533010412a4a3768b9edb4dbf27a
-    projectPath: Library\Artifacts\13\1399533010412a4a3768b9edb4dbf27a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pong\Library\Artifacts\1a\1a04d3b7dc64f53cc12f9b4136701606
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\1a\1a04d3b7dc64f53cc12f9b4136701606
-    projectPath: Library\Artifacts\1a\1a04d3b7dc64f53cc12f9b4136701606
+  - path: Pong\Library\Artifacts\32\32f4fff62a19083908df62084b9a70a2
+    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\32\32f4fff62a19083908df62084b9a70a2
+    projectPath: Library\Artifacts\32\32f4fff62a19083908df62084b9a70a2
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pong\Library\Artifacts\1b\1b4f0d01378c9e2c59d83e98c3acae93
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\1b\1b4f0d01378c9e2c59d83e98c3acae93
-    projectPath: Library\Artifacts\1b\1b4f0d01378c9e2c59d83e98c3acae93
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pong\Library\Artifacts\21\219d207a5caa9cb04a8ada5edb4dcc30
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\21\219d207a5caa9cb04a8ada5edb4dcc30
-    projectPath: Library\Artifacts\21\219d207a5caa9cb04a8ada5edb4dcc30
+  - path: Pong\Library\Artifacts\3b\3b0804b7d4e09c906ed7fd59bf9ac686
+    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\3b\3b0804b7d4e09c906ed7fd59bf9ac686
+    projectPath: Library\Artifacts\3b\3b0804b7d4e09c906ed7fd59bf9ac686
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pong\Library\Artifacts\25\25df7b5b162e69b9855686941dd92f3a
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\25\25df7b5b162e69b9855686941dd92f3a
-    projectPath: Library\Artifacts\25\25df7b5b162e69b9855686941dd92f3a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pong\Library\Artifacts\28\2832429eb0e2f69626623e5b94ec067d
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\28\2832429eb0e2f69626623e5b94ec067d
-    projectPath: Library\Artifacts\28\2832429eb0e2f69626623e5b94ec067d
+  - path: Pong\Library\Artifacts\3e\3e4bd1b5359d7c417fde04b4138bb8ac
+    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\3e\3e4bd1b5359d7c417fde04b4138bb8ac
+    projectPath: Library\Artifacts\3e\3e4bd1b5359d7c417fde04b4138bb8ac
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pong\Library\Artifacts\29\291512d9362e440e600ce8b28066883c
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\29\291512d9362e440e600ce8b28066883c
-    projectPath: Library\Artifacts\29\291512d9362e440e600ce8b28066883c
+  - path: Pong\Library\Artifacts\44\44435ac83e91e096cc9b1c65c83c2477
+    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\44\44435ac83e91e096cc9b1c65c83c2477
+    projectPath: Library\Artifacts\44\44435ac83e91e096cc9b1c65c83c2477
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pong\Library\Artifacts\2b\2b229e80246db304fde9c20ec0920d30
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\2b\2b229e80246db304fde9c20ec0920d30
-    projectPath: Library\Artifacts\2b\2b229e80246db304fde9c20ec0920d30
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pong\Library\Artifacts\2c\2c7dc745c79cee64a572c79c595ed8cb
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\2c\2c7dc745c79cee64a572c79c595ed8cb
-    projectPath: Library\Artifacts\2c\2c7dc745c79cee64a572c79c595ed8cb
+  - path: Pong\Library\Artifacts\4b\4b15d8f0492ddd460204ac01ad4a7a1d
+    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\4b\4b15d8f0492ddd460204ac01ad4a7a1d
+    projectPath: Library\Artifacts\4b\4b15d8f0492ddd460204ac01ad4a7a1d
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pong\Library\Artifacts\36\361049e94b52943c7a957a3a154a5266
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\36\361049e94b52943c7a957a3a154a5266
-    projectPath: Library\Artifacts\36\361049e94b52943c7a957a3a154a5266
+  - path: Pong\Library\Artifacts\58\5856438a32270819b28eaea7a97c341d
+    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\58\5856438a32270819b28eaea7a97c341d
+    projectPath: Library\Artifacts\58\5856438a32270819b28eaea7a97c341d
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pong\Library\Artifacts\3b\3bb77f8b48340daddcd729e7389b845c
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\3b\3bb77f8b48340daddcd729e7389b845c
-    projectPath: Library\Artifacts\3b\3bb77f8b48340daddcd729e7389b845c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pong\Library\Artifacts\43\43895c10c4927e04135e85a4631e3e40
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\43\43895c10c4927e04135e85a4631e3e40
-    projectPath: Library\Artifacts\43\43895c10c4927e04135e85a4631e3e40
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pong\Library\Artifacts\43\439bbeeac93c7496c0abe05117034a7f
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\43\439bbeeac93c7496c0abe05117034a7f
-    projectPath: Library\Artifacts\43\439bbeeac93c7496c0abe05117034a7f
+  - path: Pong\Library\Artifacts\58\58afcf246c6705e6bd75a478a7ff322b
+    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\58\58afcf246c6705e6bd75a478a7ff322b
+    projectPath: Library\Artifacts\58\58afcf246c6705e6bd75a478a7ff322b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pong\Library\Artifacts\48\4806307348d6c6d5a0345b638dfb5920
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\48\4806307348d6c6d5a0345b638dfb5920
-    projectPath: Library\Artifacts\48\4806307348d6c6d5a0345b638dfb5920
+  - path: Pong\Library\Artifacts\5f\5fe049390ee87dfbf85954e04e81eb77
+    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\5f\5fe049390ee87dfbf85954e04e81eb77
+    projectPath: Library\Artifacts\5f\5fe049390ee87dfbf85954e04e81eb77
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pong\Library\Artifacts\51\51ec37bf854f624b78cceca91109ec63
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\51\51ec37bf854f624b78cceca91109ec63
-    projectPath: Library\Artifacts\51\51ec37bf854f624b78cceca91109ec63
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pong\Library\Artifacts\58\58317d8478fe5b421440560d3bf4e2ed
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\58\58317d8478fe5b421440560d3bf4e2ed
-    projectPath: Library\Artifacts\58\58317d8478fe5b421440560d3bf4e2ed
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pong\Library\Artifacts\58\58fba4020447d19fb3bfa4b64cea80cf
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\58\58fba4020447d19fb3bfa4b64cea80cf
-    projectPath: Library\Artifacts\58\58fba4020447d19fb3bfa4b64cea80cf
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pong\Library\Artifacts\5b\5b0274cee952d9ffe67c3961b8769637
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\5b\5b0274cee952d9ffe67c3961b8769637
-    projectPath: Library\Artifacts\5b\5b0274cee952d9ffe67c3961b8769637
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pong\Library\Artifacts\61\61974afaf57d45c53aba25878ea7de1b
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\61\61974afaf57d45c53aba25878ea7de1b
-    projectPath: Library\Artifacts\61\61974afaf57d45c53aba25878ea7de1b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pong\Library\Artifacts\66\66f985e25d7ad4c4dec6e07f74809755
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\66\66f985e25d7ad4c4dec6e07f74809755
-    projectPath: Library\Artifacts\66\66f985e25d7ad4c4dec6e07f74809755
+  - path: Pong\Library\Artifacts\63\637d33ef799a5566e2131ce924e6b210
+    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\63\637d33ef799a5566e2131ce924e6b210
+    projectPath: Library\Artifacts\63\637d33ef799a5566e2131ce924e6b210
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pong\Library\Artifacts\6e\6eaf73b1f866980fdce8901e463b5262
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\6e\6eaf73b1f866980fdce8901e463b5262
-    projectPath: Library\Artifacts\6e\6eaf73b1f866980fdce8901e463b5262
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pong\Library\Artifacts\6e\6eec46c25169cd2ae0472435912d16af
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\6e\6eec46c25169cd2ae0472435912d16af
-    projectPath: Library\Artifacts\6e\6eec46c25169cd2ae0472435912d16af
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pong\Library\Artifacts\70\70911b19eb92f78fc42e3c9ed75632f0
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\70\70911b19eb92f78fc42e3c9ed75632f0
-    projectPath: Library\Artifacts\70\70911b19eb92f78fc42e3c9ed75632f0
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pong\Library\Artifacts\71\717c7307585f35d3033cb3394c374a77
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\71\717c7307585f35d3033cb3394c374a77
-    projectPath: Library\Artifacts\71\717c7307585f35d3033cb3394c374a77
+  - path: Pong\Library\Artifacts\6a\6ae017f0ca65729b45ae5276315686e3
+    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\6a\6ae017f0ca65729b45ae5276315686e3
+    projectPath: Library\Artifacts\6a\6ae017f0ca65729b45ae5276315686e3
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pong\Library\Artifacts\72\72fd3130741d2c6553adfccdc7c2c6f2
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\72\72fd3130741d2c6553adfccdc7c2c6f2
-    projectPath: Library\Artifacts\72\72fd3130741d2c6553adfccdc7c2c6f2
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pong\Library\Artifacts\75\7518fd22896784f66a40155f485f7974
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\75\7518fd22896784f66a40155f485f7974
-    projectPath: Library\Artifacts\75\7518fd22896784f66a40155f485f7974
+  - path: Pong\Library\Artifacts\6e\6e6f2613d96400b3b19c5adab8d6b8b1
+    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\6e\6e6f2613d96400b3b19c5adab8d6b8b1
+    projectPath: Library\Artifacts\6e\6e6f2613d96400b3b19c5adab8d6b8b1
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pong\Library\Artifacts\77\77fa9d875f8ca4e5117c1e22141248fd
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\77\77fa9d875f8ca4e5117c1e22141248fd
-    projectPath: Library\Artifacts\77\77fa9d875f8ca4e5117c1e22141248fd
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pong\Library\Artifacts\7a\7a62887bbc098a7358a1507f53506e72
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\7a\7a62887bbc098a7358a1507f53506e72
-    projectPath: Library\Artifacts\7a\7a62887bbc098a7358a1507f53506e72
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pong\Library\Artifacts\81\81bdce9e1c6f296e6fc50ee5fcec0b09
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\81\81bdce9e1c6f296e6fc50ee5fcec0b09
-    projectPath: Library\Artifacts\81\81bdce9e1c6f296e6fc50ee5fcec0b09
+  - path: Pong\Library\Artifacts\89\89d8a69b470aa005449b9f94b13ef1d9
+    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\89\89d8a69b470aa005449b9f94b13ef1d9
+    projectPath: Library\Artifacts\89\89d8a69b470aa005449b9f94b13ef1d9
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pong\Library\Artifacts\83\83c2bd2cb65bc90a47dfd6b45faeff4c
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\83\83c2bd2cb65bc90a47dfd6b45faeff4c
-    projectPath: Library\Artifacts\83\83c2bd2cb65bc90a47dfd6b45faeff4c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pong\Library\Artifacts\84\84c4d7e7cb8a3490001ba8fb838f2c7b
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\84\84c4d7e7cb8a3490001ba8fb838f2c7b
-    projectPath: Library\Artifacts\84\84c4d7e7cb8a3490001ba8fb838f2c7b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pong\Library\Artifacts\87\87221b9aa0eccd8da52d9148ddb2d4fc
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\87\87221b9aa0eccd8da52d9148ddb2d4fc
-    projectPath: Library\Artifacts\87\87221b9aa0eccd8da52d9148ddb2d4fc
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pong\Library\Artifacts\87\87b10bfe6b52aa98bb268a87f86ec332
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\87\87b10bfe6b52aa98bb268a87f86ec332
-    projectPath: Library\Artifacts\87\87b10bfe6b52aa98bb268a87f86ec332
+  - path: Pong\Library\Artifacts\8d\8d7d38afd7b71466cc6b2c95c07790ef
+    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\8d\8d7d38afd7b71466cc6b2c95c07790ef
+    projectPath: Library\Artifacts\8d\8d7d38afd7b71466cc6b2c95c07790ef
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pong\Library\Artifacts\8b\8bbea44295e4eb41c90cd08d38ab4855
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\8b\8bbea44295e4eb41c90cd08d38ab4855
-    projectPath: Library\Artifacts\8b\8bbea44295e4eb41c90cd08d38ab4855
+  - path: Pong\Library\Artifacts\94\9450b5d02ab61f68bc1a9c2ff23abc17
+    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\94\9450b5d02ab61f68bc1a9c2ff23abc17
+    projectPath: Library\Artifacts\94\9450b5d02ab61f68bc1a9c2ff23abc17
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pong\Library\Artifacts\8e\8e20fe212c6c21bdb78c19157f0b9ecc
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\8e\8e20fe212c6c21bdb78c19157f0b9ecc
-    projectPath: Library\Artifacts\8e\8e20fe212c6c21bdb78c19157f0b9ecc
+  - path: Pong\Library\Artifacts\96\96475d3a90269844f1e634112ab6257d
+    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\96\96475d3a90269844f1e634112ab6257d
+    projectPath: Library\Artifacts\96\96475d3a90269844f1e634112ab6257d
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pong\Library\Artifacts\90\90ed7f2a10bb4d370bab877a566ff51d
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\90\90ed7f2a10bb4d370bab877a566ff51d
-    projectPath: Library\Artifacts\90\90ed7f2a10bb4d370bab877a566ff51d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pong\Library\Artifacts\91\91492624c88f154d35331bcbab2ee19b
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\91\91492624c88f154d35331bcbab2ee19b
-    projectPath: Library\Artifacts\91\91492624c88f154d35331bcbab2ee19b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pong\Library\Artifacts\92\9273e44b70c112d34cf7ce62719d2876
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\92\9273e44b70c112d34cf7ce62719d2876
-    projectPath: Library\Artifacts\92\9273e44b70c112d34cf7ce62719d2876
+  - path: Pong\Library\Artifacts\9a\9a62946b44a8ada499d372be778d1df7
+    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\9a\9a62946b44a8ada499d372be778d1df7
+    projectPath: Library\Artifacts\9a\9a62946b44a8ada499d372be778d1df7
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pong\Library\Artifacts\97\9787c33202632d83f5582e187439d2f1
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\97\9787c33202632d83f5582e187439d2f1
-    projectPath: Library\Artifacts\97\9787c33202632d83f5582e187439d2f1
+  - path: Pong\Library\Artifacts\9c\9c432d37d38881796ead73842f4142f1
+    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\9c\9c432d37d38881796ead73842f4142f1
+    projectPath: Library\Artifacts\9c\9c432d37d38881796ead73842f4142f1
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pong\Library\Artifacts\9c\9c08fa1cc44b4f9dd67855bc92e32bd3
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\9c\9c08fa1cc44b4f9dd67855bc92e32bd3
-    projectPath: Library\Artifacts\9c\9c08fa1cc44b4f9dd67855bc92e32bd3
+  - path: Pong\Library\Artifacts\a4\a420a54e01b91cb49dc06f99d6846d5f
+    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\a4\a420a54e01b91cb49dc06f99d6846d5f
+    projectPath: Library\Artifacts\a4\a420a54e01b91cb49dc06f99d6846d5f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pong\Library\Artifacts\9e\9e831e4cbacddddc626512c1edc8da09
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\9e\9e831e4cbacddddc626512c1edc8da09
-    projectPath: Library\Artifacts\9e\9e831e4cbacddddc626512c1edc8da09
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pong\Library\Artifacts\9e\9ed1d39dd2c80a45ad58929544de9ed6
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\9e\9ed1d39dd2c80a45ad58929544de9ed6
-    projectPath: Library\Artifacts\9e\9ed1d39dd2c80a45ad58929544de9ed6
+  - path: Pong\Library\Artifacts\bd\bd64e4386a2c2fdee0d1fb02ca306edc
+    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\bd\bd64e4386a2c2fdee0d1fb02ca306edc
+    projectPath: Library\Artifacts\bd\bd64e4386a2c2fdee0d1fb02ca306edc
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pong\Library\Artifacts\aa\aa6dfc1d61af8e593b61543cb2d77f8f
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\aa\aa6dfc1d61af8e593b61543cb2d77f8f
-    projectPath: Library\Artifacts\aa\aa6dfc1d61af8e593b61543cb2d77f8f
+  - path: Pong\Library\Artifacts\bd\bd85ab00bba63ef6f15be20a871c151d
+    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\bd\bd85ab00bba63ef6f15be20a871c151d
+    projectPath: Library\Artifacts\bd\bd85ab00bba63ef6f15be20a871c151d
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pong\Library\Artifacts\ad\ad44e403ffcb7852e9bd4587db1f3654
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\ad\ad44e403ffcb7852e9bd4587db1f3654
-    projectPath: Library\Artifacts\ad\ad44e403ffcb7852e9bd4587db1f3654
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pong\Library\Artifacts\ae\ae8885af21e2976c48d57a4cac883a68
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\ae\ae8885af21e2976c48d57a4cac883a68
-    projectPath: Library\Artifacts\ae\ae8885af21e2976c48d57a4cac883a68
+  - path: Pong\Library\Artifacts\c4\c43573bff0c17c9055f224004b08a29c
+    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\c4\c43573bff0c17c9055f224004b08a29c
+    projectPath: Library\Artifacts\c4\c43573bff0c17c9055f224004b08a29c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pong\Library\Artifacts\ae\aee0cb8df6710d9d63bf34df5474b331
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\ae\aee0cb8df6710d9d63bf34df5474b331
-    projectPath: Library\Artifacts\ae\aee0cb8df6710d9d63bf34df5474b331
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pong\Library\Artifacts\af\afafb3cfc559b3417514968ae68f7277
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\af\afafb3cfc559b3417514968ae68f7277
-    projectPath: Library\Artifacts\af\afafb3cfc559b3417514968ae68f7277
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pong\Library\Artifacts\ba\ba971f8e53f82390a3bc1a6f0efdf6d1
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\ba\ba971f8e53f82390a3bc1a6f0efdf6d1
-    projectPath: Library\Artifacts\ba\ba971f8e53f82390a3bc1a6f0efdf6d1
+  - path: Pong\Library\Artifacts\c4\c45f0ec6375440755a4ea5ce761ce400
+    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\c4\c45f0ec6375440755a4ea5ce761ce400
+    projectPath: Library\Artifacts\c4\c45f0ec6375440755a4ea5ce761ce400
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pong\Library\Artifacts\be\be09cf1fda78a6105795f81dca7f12e4
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\be\be09cf1fda78a6105795f81dca7f12e4
-    projectPath: Library\Artifacts\be\be09cf1fda78a6105795f81dca7f12e4
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pong\Library\Artifacts\c7\c7967574f20e720b336a50cb6530cbaf
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\c7\c7967574f20e720b336a50cb6530cbaf
-    projectPath: Library\Artifacts\c7\c7967574f20e720b336a50cb6530cbaf
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pong\Library\Artifacts\c8\c8801e8f4cda82906c7c6693ffe11d97
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\c8\c8801e8f4cda82906c7c6693ffe11d97
-    projectPath: Library\Artifacts\c8\c8801e8f4cda82906c7c6693ffe11d97
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pong\Library\Artifacts\ca\ca450bc653458c712f3c00b8b8a54096
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\ca\ca450bc653458c712f3c00b8b8a54096
-    projectPath: Library\Artifacts\ca\ca450bc653458c712f3c00b8b8a54096
+  - path: Pong\Library\Artifacts\c9\c96e5a3bc21cd5de444075bcab7263c9
+    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\c9\c96e5a3bc21cd5de444075bcab7263c9
+    projectPath: Library\Artifacts\c9\c96e5a3bc21cd5de444075bcab7263c9
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pong\Library\Artifacts\ca\ca9bbbd3a571e7e641ac12b140ca7c85
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\ca\ca9bbbd3a571e7e641ac12b140ca7c85
-    projectPath: Library\Artifacts\ca\ca9bbbd3a571e7e641ac12b140ca7c85
+  - path: Pong\Library\Artifacts\cc\cc10a5d6dbd7a82a6152953a78e2b35d
+    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\cc\cc10a5d6dbd7a82a6152953a78e2b35d
+    projectPath: Library\Artifacts\cc\cc10a5d6dbd7a82a6152953a78e2b35d
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pong\Library\Artifacts\d3\d3ebe2e4c5fcb6632ac9baf6ecc11f26
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\d3\d3ebe2e4c5fcb6632ac9baf6ecc11f26
-    projectPath: Library\Artifacts\d3\d3ebe2e4c5fcb6632ac9baf6ecc11f26
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pong\Library\Artifacts\d4\d46bf761a240d301f6e4d60e13b172e5
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\d4\d46bf761a240d301f6e4d60e13b172e5
-    projectPath: Library\Artifacts\d4\d46bf761a240d301f6e4d60e13b172e5
+  - path: Pong\Library\Artifacts\de\dec4381a37f19d8d17526376786fe123
+    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\de\dec4381a37f19d8d17526376786fe123
+    projectPath: Library\Artifacts\de\dec4381a37f19d8d17526376786fe123
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pong\Library\Artifacts\da\daa7a2d07fa2db654cdbb562c0e95867
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\da\daa7a2d07fa2db654cdbb562c0e95867
-    projectPath: Library\Artifacts\da\daa7a2d07fa2db654cdbb562c0e95867
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pong\Library\Artifacts\e1\e1df4f5ace9966c8b16090493ff0e12f
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\e1\e1df4f5ace9966c8b16090493ff0e12f
-    projectPath: Library\Artifacts\e1\e1df4f5ace9966c8b16090493ff0e12f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pong\Library\Artifacts\e2\e2e19fe75047e217d296eaf7152996ab
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\e2\e2e19fe75047e217d296eaf7152996ab
-    projectPath: Library\Artifacts\e2\e2e19fe75047e217d296eaf7152996ab
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pong\Library\Artifacts\e8\e8c40db27cfbbf1d82b3ca0794d0e78e
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\e8\e8c40db27cfbbf1d82b3ca0794d0e78e
-    projectPath: Library\Artifacts\e8\e8c40db27cfbbf1d82b3ca0794d0e78e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pong\Library\Artifacts\ec\ec7e44842e5f56e3b48844df40590897
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\ec\ec7e44842e5f56e3b48844df40590897
-    projectPath: Library\Artifacts\ec\ec7e44842e5f56e3b48844df40590897
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pong\Library\Artifacts\f2\f2ad7100fba6d563ab65f5c71484399c
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\f2\f2ad7100fba6d563ab65f5c71484399c
-    projectPath: Library\Artifacts\f2\f2ad7100fba6d563ab65f5c71484399c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pong\Library\Artifacts\f9\f9c69c405e1d298b9f2bb9fb65a1b64a
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\f9\f9c69c405e1d298b9f2bb9fb65a1b64a
-    projectPath: Library\Artifacts\f9\f9c69c405e1d298b9f2bb9fb65a1b64a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pong\Library\Artifacts\fb\fb699a5e2779af30a907cb9168451b3f
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\fb\fb699a5e2779af30a907cb9168451b3f
-    projectPath: Library\Artifacts\fb\fb699a5e2779af30a907cb9168451b3f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pong\Library\Artifacts\fd\fd09934b029aab0d1e5cd9be73778548
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\fd\fd09934b029aab0d1e5cd9be73778548
-    projectPath: Library\Artifacts\fd\fd09934b029aab0d1e5cd9be73778548
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pong\Library\Artifacts\fe\fecf696a864cd99a66a7534bc00d0512
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\fe\fecf696a864cd99a66a7534bc00d0512
-    projectPath: Library\Artifacts\fe\fecf696a864cd99a66a7534bc00d0512
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pong\Library\Artifacts\ff\ff7b2a14942b3594d33317aa3ccbd283
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\ff\ff7b2a14942b3594d33317aa3ccbd283
-    projectPath: Library\Artifacts\ff\ff7b2a14942b3594d33317aa3ccbd283
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Pong\Library\EditorInstance.json
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\EditorInstance.json
-    projectPath: Library\EditorInstance.json
+  - path: Pong\Library\Artifacts\fd\fd79c7da1c987e0ac67919ccef27a8d6
+    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\Artifacts\fd\fd79c7da1c987e0ac67919ccef27a8d6
+    projectPath: Library\Artifacts\fd\fd79c7da1c987e0ac67919ccef27a8d6
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -508,21 +232,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Pong\Library\gfu\cache\gituser.yaml
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\gfu\cache\gituser.yaml
-    projectPath: Library\gfu\cache\gituser.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Pong\Library\gfu\cache\repoinfo.yaml
     fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Pong\Library\InspectorExpandedItems.asset
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\InspectorExpandedItems.asset
-    projectPath: Library\InspectorExpandedItems.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -538,12 +250,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Pong\Library\ShaderCache\EditorEncounteredVariants
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\ShaderCache\EditorEncounteredVariants
-    projectPath: Library\ShaderCache\EditorEncounteredVariants
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Pong\Library\SourceAssetDB
     fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
@@ -556,237 +262,195 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Pong\Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
-    projectPath: Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Pong\Pong
     fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Pong
     projectPath: Pong
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pong\ProjectSettings\TagManager.asset
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\ProjectSettings\TagManager.asset
-    projectPath: ProjectSettings\TagManager.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Pong\Temp\__Backupscenes\0.backup
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Temp\__Backupscenes\0.backup
-    projectPath: Temp\__Backupscenes\0.backup
+  - path: Pong\Temp\UnityTempFile-0aca1365e6bbd76458c6bb5a2e4e967d
+    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Temp\UnityTempFile-0aca1365e6bbd76458c6bb5a2e4e967d
+    projectPath: Temp\UnityTempFile-0aca1365e6bbd76458c6bb5a2e4e967d
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pong\Temp\ProcessJobs\996e066ca5612b38951a5da19c1ebfb3.bakert
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Temp\ProcessJobs\996e066ca5612b38951a5da19c1ebfb3.bakert
-    projectPath: Temp\ProcessJobs\996e066ca5612b38951a5da19c1ebfb3.bakert
+  - path: Pong\Temp\UnityTempFile-15551b055071a22499fd25c7aba43299
+    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Temp\UnityTempFile-15551b055071a22499fd25c7aba43299
+    projectPath: Temp\UnityTempFile-15551b055071a22499fd25c7aba43299
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pong\Temp\UnityLockfile
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Temp\UnityLockfile
-    projectPath: Temp\UnityLockfile
+  - path: Pong\Temp\UnityTempFile-18a822694eb9a164597085ae4e1b94bc
+    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Temp\UnityTempFile-18a822694eb9a164597085ae4e1b94bc
+    projectPath: Temp\UnityTempFile-18a822694eb9a164597085ae4e1b94bc
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pong\Temp\UnityTempFile-0035f17fd9930a540939913e6492ed17
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Temp\UnityTempFile-0035f17fd9930a540939913e6492ed17
-    projectPath: Temp\UnityTempFile-0035f17fd9930a540939913e6492ed17
+  - path: Pong\Temp\UnityTempFile-1a827a97413ea2149894b2928c3988c4
+    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Temp\UnityTempFile-1a827a97413ea2149894b2928c3988c4
+    projectPath: Temp\UnityTempFile-1a827a97413ea2149894b2928c3988c4
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pong\Temp\UnityTempFile-047258a77d3be364882c8c0bda9d0995
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Temp\UnityTempFile-047258a77d3be364882c8c0bda9d0995
-    projectPath: Temp\UnityTempFile-047258a77d3be364882c8c0bda9d0995
+  - path: Pong\Temp\UnityTempFile-1acf57a4cc1c36d4398e2db24df6fe87
+    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Temp\UnityTempFile-1acf57a4cc1c36d4398e2db24df6fe87
+    projectPath: Temp\UnityTempFile-1acf57a4cc1c36d4398e2db24df6fe87
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pong\Temp\UnityTempFile-0ec9bf274dca35547a01fd3e08f015df
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Temp\UnityTempFile-0ec9bf274dca35547a01fd3e08f015df
-    projectPath: Temp\UnityTempFile-0ec9bf274dca35547a01fd3e08f015df
+  - path: Pong\Temp\UnityTempFile-1cee0ba3d28c3e44593f2465eea6ba58
+    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Temp\UnityTempFile-1cee0ba3d28c3e44593f2465eea6ba58
+    projectPath: Temp\UnityTempFile-1cee0ba3d28c3e44593f2465eea6ba58
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pong\Temp\UnityTempFile-119b79d1de018d74c8a3772d9a73f98f
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Temp\UnityTempFile-119b79d1de018d74c8a3772d9a73f98f
-    projectPath: Temp\UnityTempFile-119b79d1de018d74c8a3772d9a73f98f
+  - path: Pong\Temp\UnityTempFile-29a0be1d7ce978d428653437d2d98ba2
+    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Temp\UnityTempFile-29a0be1d7ce978d428653437d2d98ba2
+    projectPath: Temp\UnityTempFile-29a0be1d7ce978d428653437d2d98ba2
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pong\Temp\UnityTempFile-19138279abad5c04f9a06d6af7794ad0
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Temp\UnityTempFile-19138279abad5c04f9a06d6af7794ad0
-    projectPath: Temp\UnityTempFile-19138279abad5c04f9a06d6af7794ad0
+  - path: Pong\Temp\UnityTempFile-331b64b3e368ff04d9ae68aa047f3dde
+    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Temp\UnityTempFile-331b64b3e368ff04d9ae68aa047f3dde
+    projectPath: Temp\UnityTempFile-331b64b3e368ff04d9ae68aa047f3dde
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pong\Temp\UnityTempFile-22102ab6658613543aca6cb49744820e
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Temp\UnityTempFile-22102ab6658613543aca6cb49744820e
-    projectPath: Temp\UnityTempFile-22102ab6658613543aca6cb49744820e
+  - path: Pong\Temp\UnityTempFile-349b33808f51af0468811d61ad7796d4
+    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Temp\UnityTempFile-349b33808f51af0468811d61ad7796d4
+    projectPath: Temp\UnityTempFile-349b33808f51af0468811d61ad7796d4
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pong\Temp\UnityTempFile-3056d28a7a9a03f4287e5b52a4129004
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Temp\UnityTempFile-3056d28a7a9a03f4287e5b52a4129004
-    projectPath: Temp\UnityTempFile-3056d28a7a9a03f4287e5b52a4129004
+  - path: Pong\Temp\UnityTempFile-44d6f79ae8f2a154799c49ba7b2cef17
+    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Temp\UnityTempFile-44d6f79ae8f2a154799c49ba7b2cef17
+    projectPath: Temp\UnityTempFile-44d6f79ae8f2a154799c49ba7b2cef17
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pong\Temp\UnityTempFile-32adb3d9738ee524a931d434dbc828d8
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Temp\UnityTempFile-32adb3d9738ee524a931d434dbc828d8
-    projectPath: Temp\UnityTempFile-32adb3d9738ee524a931d434dbc828d8
+  - path: Pong\Temp\UnityTempFile-4693ed91b0329894fa290b4cf247c9de
+    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Temp\UnityTempFile-4693ed91b0329894fa290b4cf247c9de
+    projectPath: Temp\UnityTempFile-4693ed91b0329894fa290b4cf247c9de
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pong\Temp\UnityTempFile-37d9e26170d20d44eab5463cd441c922
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Temp\UnityTempFile-37d9e26170d20d44eab5463cd441c922
-    projectPath: Temp\UnityTempFile-37d9e26170d20d44eab5463cd441c922
+  - path: Pong\Temp\UnityTempFile-4d3575819e60d5c4f9d721b272d42ba3
+    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Temp\UnityTempFile-4d3575819e60d5c4f9d721b272d42ba3
+    projectPath: Temp\UnityTempFile-4d3575819e60d5c4f9d721b272d42ba3
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pong\Temp\UnityTempFile-4f645505aaafc4c41a4dc2106ccb5730
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Temp\UnityTempFile-4f645505aaafc4c41a4dc2106ccb5730
-    projectPath: Temp\UnityTempFile-4f645505aaafc4c41a4dc2106ccb5730
+  - path: Pong\Temp\UnityTempFile-5256ddb58a326d84fa068198bde24920
+    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Temp\UnityTempFile-5256ddb58a326d84fa068198bde24920
+    projectPath: Temp\UnityTempFile-5256ddb58a326d84fa068198bde24920
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pong\Temp\UnityTempFile-5161e003afbed3f4cb6c486a29fc5de1
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Temp\UnityTempFile-5161e003afbed3f4cb6c486a29fc5de1
-    projectPath: Temp\UnityTempFile-5161e003afbed3f4cb6c486a29fc5de1
+  - path: Pong\Temp\UnityTempFile-59a72c3cb49ee354d8e4d3efdb0e2764
+    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Temp\UnityTempFile-59a72c3cb49ee354d8e4d3efdb0e2764
+    projectPath: Temp\UnityTempFile-59a72c3cb49ee354d8e4d3efdb0e2764
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pong\Temp\UnityTempFile-57035b89d3d6bfd42960ac63953e813b
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Temp\UnityTempFile-57035b89d3d6bfd42960ac63953e813b
-    projectPath: Temp\UnityTempFile-57035b89d3d6bfd42960ac63953e813b
+  - path: Pong\Temp\UnityTempFile-67b4cf218a9fac3459eaca08905ccd0e
+    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Temp\UnityTempFile-67b4cf218a9fac3459eaca08905ccd0e
+    projectPath: Temp\UnityTempFile-67b4cf218a9fac3459eaca08905ccd0e
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pong\Temp\UnityTempFile-5957ec70d42d63f428b297f83d13e753
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Temp\UnityTempFile-5957ec70d42d63f428b297f83d13e753
-    projectPath: Temp\UnityTempFile-5957ec70d42d63f428b297f83d13e753
+  - path: Pong\Temp\UnityTempFile-77439739d81b4654eb9fcc9cd71354ee
+    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Temp\UnityTempFile-77439739d81b4654eb9fcc9cd71354ee
+    projectPath: Temp\UnityTempFile-77439739d81b4654eb9fcc9cd71354ee
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pong\Temp\UnityTempFile-621a36c6021628349a570228f9a0aed4
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Temp\UnityTempFile-621a36c6021628349a570228f9a0aed4
-    projectPath: Temp\UnityTempFile-621a36c6021628349a570228f9a0aed4
+  - path: Pong\Temp\UnityTempFile-a2428cdcec85ee44eace37fff89cc442
+    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Temp\UnityTempFile-a2428cdcec85ee44eace37fff89cc442
+    projectPath: Temp\UnityTempFile-a2428cdcec85ee44eace37fff89cc442
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pong\Temp\UnityTempFile-66e3d462ad8a15149832627fecdf8556
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Temp\UnityTempFile-66e3d462ad8a15149832627fecdf8556
-    projectPath: Temp\UnityTempFile-66e3d462ad8a15149832627fecdf8556
+  - path: Pong\Temp\UnityTempFile-a58ab61b0eb35b840ba71c10c825efa5
+    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Temp\UnityTempFile-a58ab61b0eb35b840ba71c10c825efa5
+    projectPath: Temp\UnityTempFile-a58ab61b0eb35b840ba71c10c825efa5
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pong\Temp\UnityTempFile-670bea11a7d579543b306bc36989cb06
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Temp\UnityTempFile-670bea11a7d579543b306bc36989cb06
-    projectPath: Temp\UnityTempFile-670bea11a7d579543b306bc36989cb06
+  - path: Pong\Temp\UnityTempFile-a9ffabe479af27a489e675d4c9b4de7f
+    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Temp\UnityTempFile-a9ffabe479af27a489e675d4c9b4de7f
+    projectPath: Temp\UnityTempFile-a9ffabe479af27a489e675d4c9b4de7f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pong\Temp\UnityTempFile-89f6ac2a3ca776f43a0b5beb3f2a1c78
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Temp\UnityTempFile-89f6ac2a3ca776f43a0b5beb3f2a1c78
-    projectPath: Temp\UnityTempFile-89f6ac2a3ca776f43a0b5beb3f2a1c78
+  - path: Pong\Temp\UnityTempFile-aaed44175ed8635459bba583d48eff03
+    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Temp\UnityTempFile-aaed44175ed8635459bba583d48eff03
+    projectPath: Temp\UnityTempFile-aaed44175ed8635459bba583d48eff03
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pong\Temp\UnityTempFile-93218c7be1c4b0e4cba6065f8a1ac2b1
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Temp\UnityTempFile-93218c7be1c4b0e4cba6065f8a1ac2b1
-    projectPath: Temp\UnityTempFile-93218c7be1c4b0e4cba6065f8a1ac2b1
+  - path: Pong\Temp\UnityTempFile-adad46778b3104344b69f7f9c0a9f756
+    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Temp\UnityTempFile-adad46778b3104344b69f7f9c0a9f756
+    projectPath: Temp\UnityTempFile-adad46778b3104344b69f7f9c0a9f756
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pong\Temp\UnityTempFile-94f4da931d3b35c45be7ea36d0a339e7
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Temp\UnityTempFile-94f4da931d3b35c45be7ea36d0a339e7
-    projectPath: Temp\UnityTempFile-94f4da931d3b35c45be7ea36d0a339e7
+  - path: Pong\Temp\UnityTempFile-b1dc3636cb5d6ca46a0dc52ab18c6df2
+    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Temp\UnityTempFile-b1dc3636cb5d6ca46a0dc52ab18c6df2
+    projectPath: Temp\UnityTempFile-b1dc3636cb5d6ca46a0dc52ab18c6df2
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pong\Temp\UnityTempFile-9eaa9e8bf8c5de84da0162cdfb7d8ca6
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Temp\UnityTempFile-9eaa9e8bf8c5de84da0162cdfb7d8ca6
-    projectPath: Temp\UnityTempFile-9eaa9e8bf8c5de84da0162cdfb7d8ca6
+  - path: Pong\Temp\UnityTempFile-c4d1525159b0e0c4ea33f106df0ccc9a
+    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Temp\UnityTempFile-c4d1525159b0e0c4ea33f106df0ccc9a
+    projectPath: Temp\UnityTempFile-c4d1525159b0e0c4ea33f106df0ccc9a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pong\Temp\UnityTempFile-9fc4b0b7403850b46898fe245f04a899
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Temp\UnityTempFile-9fc4b0b7403850b46898fe245f04a899
-    projectPath: Temp\UnityTempFile-9fc4b0b7403850b46898fe245f04a899
+  - path: Pong\Temp\UnityTempFile-d03f6286ea55c4548a147835565c656f
+    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Temp\UnityTempFile-d03f6286ea55c4548a147835565c656f
+    projectPath: Temp\UnityTempFile-d03f6286ea55c4548a147835565c656f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pong\Temp\UnityTempFile-9fd9f6931701bca41974292055815cea
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Temp\UnityTempFile-9fd9f6931701bca41974292055815cea
-    projectPath: Temp\UnityTempFile-9fd9f6931701bca41974292055815cea
+  - path: Pong\Temp\UnityTempFile-d4b99067b287ef94e80ff1ce55bec366
+    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Temp\UnityTempFile-d4b99067b287ef94e80ff1ce55bec366
+    projectPath: Temp\UnityTempFile-d4b99067b287ef94e80ff1ce55bec366
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pong\Temp\UnityTempFile-a604a6ce437be124893ea7e6082d2437
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Temp\UnityTempFile-a604a6ce437be124893ea7e6082d2437
-    projectPath: Temp\UnityTempFile-a604a6ce437be124893ea7e6082d2437
+  - path: Pong\Temp\UnityTempFile-e31913ff2f531a846887bd2f43ad3cca
+    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Temp\UnityTempFile-e31913ff2f531a846887bd2f43ad3cca
+    projectPath: Temp\UnityTempFile-e31913ff2f531a846887bd2f43ad3cca
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pong\Temp\UnityTempFile-b19fad69eb572b646b7abd4363d59bb0
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Temp\UnityTempFile-b19fad69eb572b646b7abd4363d59bb0
-    projectPath: Temp\UnityTempFile-b19fad69eb572b646b7abd4363d59bb0
+  - path: Pong\Temp\UnityTempFile-e5d912bc28f87244fab0a1e8056f0628
+    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Temp\UnityTempFile-e5d912bc28f87244fab0a1e8056f0628
+    projectPath: Temp\UnityTempFile-e5d912bc28f87244fab0a1e8056f0628
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pong\Temp\UnityTempFile-baaf0adfb249e0648a18cb63cac2e4c7
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Temp\UnityTempFile-baaf0adfb249e0648a18cb63cac2e4c7
-    projectPath: Temp\UnityTempFile-baaf0adfb249e0648a18cb63cac2e4c7
+  - path: Pong\Temp\UnityTempFile-ecee7a6ec126cc94591db953a89e1c1d
+    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Temp\UnityTempFile-ecee7a6ec126cc94591db953a89e1c1d
+    projectPath: Temp\UnityTempFile-ecee7a6ec126cc94591db953a89e1c1d
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pong\Temp\UnityTempFile-bb5b8425b466b714c9d74fff0d131b4b
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Temp\UnityTempFile-bb5b8425b466b714c9d74fff0d131b4b
-    projectPath: Temp\UnityTempFile-bb5b8425b466b714c9d74fff0d131b4b
+  - path: Pong\Temp\UnityTempFile-f948191dc84705c4b8e1b2ec30acc32b
+    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Temp\UnityTempFile-f948191dc84705c4b8e1b2ec30acc32b
+    projectPath: Temp\UnityTempFile-f948191dc84705c4b8e1b2ec30acc32b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pong\Temp\UnityTempFile-d7ebbfd96edf1904b8cab57bd5abd9c9
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Temp\UnityTempFile-d7ebbfd96edf1904b8cab57bd5abd9c9
-    projectPath: Temp\UnityTempFile-d7ebbfd96edf1904b8cab57bd5abd9c9
+  - path: Pong\Temp\UnityTempFile-fbf57c8b1e6818b4783fd5cf4049404a
+    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Temp\UnityTempFile-fbf57c8b1e6818b4783fd5cf4049404a
+    projectPath: Temp\UnityTempFile-fbf57c8b1e6818b4783fd5cf4049404a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Pong\Temp\UnityTempFile-ddb9363ad5f9ced4faf32de3ddb27586
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Temp\UnityTempFile-ddb9363ad5f9ced4faf32de3ddb27586
-    projectPath: Temp\UnityTempFile-ddb9363ad5f9ced4faf32de3ddb27586
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pong\Temp\UnityTempFile-deb41a06f30a83c47861d04500ff25ea
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Temp\UnityTempFile-deb41a06f30a83c47861d04500ff25ea
-    projectPath: Temp\UnityTempFile-deb41a06f30a83c47861d04500ff25ea
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pong\Temp\UnityTempFile-df3414a2eb5ec8b44b1d3c34f737178e
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Temp\UnityTempFile-df3414a2eb5ec8b44b1d3c34f737178e
-    projectPath: Temp\UnityTempFile-df3414a2eb5ec8b44b1d3c34f737178e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pong\Temp\UnityTempFile-e8103937c4dda7045b718b0fee20015b
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Temp\UnityTempFile-e8103937c4dda7045b718b0fee20015b
-    projectPath: Temp\UnityTempFile-e8103937c4dda7045b718b0fee20015b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pong\Temp\UnityTempFile-f3952a264d73493429914bd0a4e819c6
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Temp\UnityTempFile-f3952a264d73493429914bd0a4e819c6
-    projectPath: Temp\UnityTempFile-f3952a264d73493429914bd0a4e819c6
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Pong\Temp\UnityTempFile-fe986af3ad2ef0b4d8c01055c2e53e3d
-    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Temp\UnityTempFile-fe986af3ad2ef0b4d8c01055c2e53e3d
-    projectPath: Temp\UnityTempFile-fe986af3ad2ef0b4d8c01055c2e53e3d
+  - path: Pong\Temp\UnityTempFile-fcc1d366202f3aa419f38d61c1fe81ae
+    fullPath: D:\Unity_Projects\PongHW1\Pong\Pong\Temp\UnityTempFile-fcc1d366202f3aa419f38d61c1fe81ae
+    projectPath: Temp\UnityTempFile-fcc1d366202f3aa419f38d61c1fe81ae
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
