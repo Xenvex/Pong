@@ -137,6 +137,7 @@ GameObject:
   - component: {fileID: 363885981}
   - component: {fileID: 363885984}
   - component: {fileID: 363885985}
+  - component: {fileID: 363885986}
   m_Layer: 0
   m_Name: PaddleRight
   m_TagString: Untagged
@@ -248,7 +249,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc11d89e160854143b0788135da21553, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  amplify: 4
+  amplify: 10
+--- !u!114 &363885986
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 363885979}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b7dd50c09fd45045bfa18fc2b7ddb11, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &587247138
 GameObject:
   m_ObjectHideFlags: 0
@@ -865,6 +878,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4a46c6b43a9396f40bc7e416c8a0d785, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  originalPos: {x: 0, y: 0, z: 0}
 --- !u!54 &1312246550
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -893,6 +907,7 @@ GameObject:
   - component: {fileID: 1790323959}
   - component: {fileID: 1790323958}
   - component: {fileID: 1790323957}
+  - component: {fileID: 1790323960}
   m_Layer: 0
   m_Name: LeftGoal
   m_TagString: Untagged
@@ -976,6 +991,18 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1790323955}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &1790323960
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1790323955}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7afc52e162ba26e44a423e93a47def04, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1936568249
 GameObject:
   m_ObjectHideFlags: 0
@@ -1131,7 +1158,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 365ec0ced73650048ac79fd39f31bd03, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  amplify: 4
+  amplify: 10
 --- !u!1 &2014933750
 GameObject:
   m_ObjectHideFlags: 0
