@@ -16,8 +16,8 @@ public class LeftGoal : MonoBehaviour
         
     }
 
-    void OnTriggerEnter(Collider collider)
-    {
-        Debug.Log("I scored in the left goal!");
-    }
+    //void OnTriggerEnter(Collider collider)
+    //{
+    //    Debug.Log("I scored in the left goal!");
+    //}
 }

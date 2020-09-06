@@ -16,8 +16,8 @@ public class RightGoal : MonoBehaviour
         
     }
 
-    void OnTriggerEnter(Collider collider)
-    {
-        Debug.Log("I scored in the right goal!");
-    }
+    //void OnTriggerEnter(Collider collider)
+    //{
+    //    Debug.Log("I scored in the right goal!");
+    //}
 }
