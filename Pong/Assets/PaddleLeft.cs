@@ -16,7 +16,7 @@ public class Paddle : MonoBehaviour
     {
         //if(Mathf.Abs(transform.position.z) < 8.0)
         {
-            transform.Translate(new Vector3(0, 0, Input.GetAxis("LeftPaddle")) * Time.deltaTime * amplify);
+            transform.Translate(new Vector3(0, 0, Input.GetAxis("LeftPaddle")) * Time.deltaTime * amplify); //Makes the Paddle move
         }
         
     }

@@ -5,6 +5,7 @@ using UnityEngine;
 public class Ball : MonoBehaviour
 {
     private Rigidbody rb;
+
     private float ampInitial = 50;
     private float amp = 0;
     private float embark = -1;
@@ -52,12 +53,15 @@ public class Ball : MonoBehaviour
         //Debug.Log("I hit a " + other.gameObject.name);
 
         //Change color of the ball
-        if (other.gameObject.name == "LeftPaddle")
+        if (other.gameObject.tag == "Paddle")
         {
             gameObject.GetComponent<MeshRenderer>().material.color = NewColor();
         }
+        
 
         
+
+
 
     }
 
@@ -88,7 +92,7 @@ public class Ball : MonoBehaviour
             Debug.Log("Current Score:" + LeftPoints + " - " + RightPoints); //Display Current Score
 
             //Checking if it's Game Over
-            if(RightPoints == 3)
+            if(RightPoints == 11)
             {
                 //Declare game over message and reset scores
                 Debug.Log("Game Over, Right Paddle Wins");
@@ -118,7 +122,7 @@ public class Ball : MonoBehaviour
             Debug.Log("Current Score:" + LeftPoints + " - " + RightPoints); //Display Current Score//Display Current Score
 
             //Checking if it's Game Over
-            if (LeftPoints == 3)
+            if (LeftPoints == 11)
             {
                 //Declare game over message and reset score
                 Debug.Log("Game Over, Left Paddle Wins");
