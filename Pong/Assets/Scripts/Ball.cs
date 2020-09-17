@@ -75,7 +75,7 @@ public class Ball : MonoBehaviour
         if (other.gameObject.name == "PaddleLeft")
         {
             //when it speeds past a certain point
-            if (amp > 4)
+            if (amp >= 4) //When Speed is Equal to or Greather than 15
             {
                 audioSource.PlayOneShot(leftGunClip);
             }
@@ -88,9 +88,9 @@ public class Ball : MonoBehaviour
         if (other.gameObject.name == "PaddleRight")
         {
             //when it speeds past a certain point
-            if (amp > 4)
+            if (amp >= 4)
             {
-                audioSource.PlayOneShot(leftGunClip);
+                audioSource.PlayOneShot(rightGunClip);
             }  
             else
             {
