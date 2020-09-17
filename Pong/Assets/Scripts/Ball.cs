@@ -132,12 +132,20 @@ public class Ball : MonoBehaviour
         //For Powerups
         if(collider.tag == "Power1")
         {
+            //Speeds Up the Ball
+            amp = (10 + amp) * 2;
+            rb.velocity = rb.velocity.normalized * (10 + amp);
+
             //Destroys PowerUp
             Destroy(collider.gameObject);
         }
 
         if (collider.tag == "Power2")
         {
+            //Slows down the Ball
+            amp = 0;
+            rb.velocity = rb.velocity.normalized * (1 + amp);
+
             //Destorys PowerUp
             Destroy(collider.gameObject);
         }
