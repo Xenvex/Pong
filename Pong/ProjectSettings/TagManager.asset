@@ -7,6 +7,8 @@ TagManager:
   - LeftGoal
   - RightGoal
   - Paddle
+  - Power1
+  - Power2
   layers:
   - Default
   - TransparentFX

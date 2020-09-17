@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PaddleLeft : MonoBehaviour
+public class Paddle : MonoBehaviour
 {
     public float amplify = 2;
     // Start is called before the first frame update
